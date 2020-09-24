@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uSMe9O64Vq97rGaMgJQFjqjuyGk5nbdRqWA3u0yPIMJ1wnkx/tuX+IZjaLwTwPHDZcwq/punBJ1QPuoVinXizg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ericsson Novais\\OneDrive\\Projetos_Internos\\Udemy_API_Docker\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ericsson Novais\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
